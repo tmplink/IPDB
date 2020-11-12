@@ -8,3 +8,13 @@ Since the international routing usually does not change, you may not see any new
 This database is provided by VXLINK IP Service, which is the data basis of IP Service. You can also visit VXLINK IP Service to get APIs (paid services) with complex functions.    
 
 https://www.vx.link   
+
+微林的其它服务：
+* vxTrans TCP与UDP加速，无需调整服务器设置
+* vxPing 基于全球监测网络的Ping监测
+* DB Service 动态可扩展的数据库服务
+
+Other services of VXLINK:
+* vxTrans : TCP and UDP accelerater, no need to adjust server settings
+* vxPing : Ping monitoring based on global monitoring network
+* DB Service : Dynamic and scalable database service
