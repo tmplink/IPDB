@@ -19,7 +19,3 @@ Other services of VXLINK:
 * DB Service : Dynamic and scalable database service
 * vxDNS : a DNS service that can resolve domain names according to the user's geographic location and has the function of downtime switching.
 * vxServer : expands your Github repository into a WEB server 
-
-附录：  
-IPv6 的相关简体中文文档（甲骨文提供）  
-https://docs.oracle.com/cd/E19253-01/819-7058/6n91g7dd4/index.html
