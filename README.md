@@ -3,8 +3,11 @@
   
 The national IP database provides data based on CIDR and NETMASK format, supports ipv4 and ipv6, and is updated daily.      
 
-数据由微林提供.
+数据由微林提供  
 https://www.vx.link   
+
+IPv6 简易指南  
+https://github.com/tmplink/ipv6
 
 微林的其它服务：
 * vxTrans TCP与UDP加速，无需调整服务器设置
