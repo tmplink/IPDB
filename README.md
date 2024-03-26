@@ -18,7 +18,7 @@ https://github.com/tmplink/ipv6
 * 证书服务：免费申请 SSL 证书及其监控证书有效期的服务。
 * 超导中枢：提供 vxtrans，frp，derp 服务的云计算实例。
 
-Other services from Microlin:
+Other services from VNETLINK:
 * Network optimization: TCP and UDP acceleration without adjusting server settings. One-click deployment of DERP service.
 * Network monitor: Check the availability of servers, and make early warning, notification and other operations.
 * Database Service: Dynamically scalable database services.
